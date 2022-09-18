@@ -1,8 +1,9 @@
-# README
+### Hi there 👋
 
-- test 1
-- test 2
-- test 3
+- 🔭 I’m currently working at *Porsche Informatik*, working with Spring and Angular
+- 🌱 I’m currently learning Cross Plattform Development with Flutter
+- ⚡ I’m currently hyped about DevOps and PKM!
+- 👯 I’m looking for mentorship. HMU
+- 📫 Reach out on [Twitter @ederbit](https://twitter.com/ederbit)
 
-- [ ] Task 1
-- [ ] Task 2
+Checkout my [dot-files](https://gitlab.com/FabianUntermoser/dot-files).
